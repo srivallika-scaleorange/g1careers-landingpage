@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/g1careers-landingpage/static/css/main.981fa78c.css",
-    "main.js": "/g1careers-landingpage/static/js/main.47ce2da4.js",
+    "main.js": "/g1careers-landingpage/static/js/main.ebf03a48.js",
     "static/js/453.4b3d9602.chunk.js": "/g1careers-landingpage/static/js/453.4b3d9602.chunk.js",
     "static/media/shape-2.png": "/g1careers-landingpage/static/media/shape-2.bf6514c7a9499a0e08b1.png",
     "static/media/shape-17.png": "/g1careers-landingpage/static/media/shape-17.88e1411a0d7a72e40d6b.png",
@@ -68,11 +68,11 @@
     "static/media/owl.video.play.html": "/g1careers-landingpage/static/media/owl.video.play.ea114b114582ca2270ca.html",
     "index.html": "/g1careers-landingpage/index.html",
     "main.981fa78c.css.map": "/g1careers-landingpage/static/css/main.981fa78c.css.map",
-    "main.47ce2da4.js.map": "/g1careers-landingpage/static/js/main.47ce2da4.js.map",
+    "main.ebf03a48.js.map": "/g1careers-landingpage/static/js/main.ebf03a48.js.map",
     "453.4b3d9602.chunk.js.map": "/g1careers-landingpage/static/js/453.4b3d9602.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.981fa78c.css",
-    "static/js/main.47ce2da4.js"
+    "static/js/main.ebf03a48.js"
   ]
 }
