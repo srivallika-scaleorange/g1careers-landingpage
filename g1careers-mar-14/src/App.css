@@ -1,0 +1,43 @@
+/* src/App.css */
+@import url('./assets/css/font-awesome-all.css');
+@import url('./assets/css/flaticon.css');
+@import url('./assets/css/owl.css');
+@import url('./assets/css/bootstrap.css');
+@import url('./assets/css/jquery.fancybox.min.css');
+@import url('./assets/css/animate.css');
+@import url('./assets/css/nice-select.css');
+@import url('./assets/css/odometer.css');
+@import url('./assets/css/elpath.css');
+@import url('./assets/css/color.css');
+@import url('./assets/css/rtl.css');
+@import url('./assets/css/style.css');
+@import url('./assets/css/module-css/header.css');
+@import url('./assets/css/module-css/banner.css');
+@import url('./assets/css/module-css/clients.css');
+@import url('./assets/css/module-css/about.css');
+@import url('./assets/css/module-css/funfact.css');
+@import url('./assets/css/module-css/chooseus.css');
+@import url('./assets/css/module-css/category.css');
+@import url('./assets/css/module-css/industries.css');
+@import url('./assets/css/module-css/process.css');
+@import url('./assets/css/module-css/team.css');
+@import url('./assets/css/module-css/news.css');
+@import url('./assets/css/module-css/subscribe.css');
+@import url('./assets/css/module-css/footer.css');
+@import url('./assets/css/responsive.css');
+@import url('./assets/css/module-css/faq.css');
+@import url('./assets/css/module-css/contact.css');
+@import url('./assets/css/module-css/training.css');
+@import url('./assets/css/module-css/testimonial.css');
+@import url('./assets/css/module-css/page-title.css');
+@import url('./assets/css/module-css/portfolio.css'); /* Add this line */
+@import url('./assets/css/module-css/service.css'); /* Add this line */
+@import url('./assets/css/module-css/welcome.css'); 
+@import url('./assets/css/module-css/pricing.css'); 
+@import url('./assets/css/module-css/job-details.css');
+@import url('./assets/css/module-css/blog-sidebar.css'); /* Add this line */
+@import url('./assets/css/module-css/job.css'); /* Add this line */
+@import url('./assets/css/module-css/login.css'); /* Add this line */
+.boxed_wrapper {
+  display: block; /* Ensure the wrapper is displayed */
+}
