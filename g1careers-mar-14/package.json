@@ -2,7 +2,7 @@
   "name": "g1careers-mar-14",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://srivallika-scaleorange.github.io/g1careers-landingpage.git",
+  "homepage": "https://srivallika-scaleorange.github.io/g1careers-landingpage",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
