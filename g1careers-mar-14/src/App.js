@@ -1,6 +1,7 @@
 // src/App.jsx
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+
 import Header from './components/Header';
 import Banner from './components/Banner';
 import Clients from './components/Clients';
@@ -47,7 +48,7 @@ function App() {
   ];
   console.log('App component rendered');
   return (
-    <Router>
+    <Router basename="/g1careers-landingpage">
       <div className="boxed_wrapper ltr">
         <Header />
         <Routes>
